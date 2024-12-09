@@ -1,4 +1,4 @@
-# Zero-Shot and Attention-Based Offensive Language Detection with Differential Privacy-Enhanced Word Replacement System
+# Offensive and Inappropriate Language Detection with Differential Privacy-Enhanced Word Replacement
 
 This repository provides the implementation and details of our research on **Zero-Shot and Attention-Based Offensive and Inappropriate Language Detection** combined with a **Differential Privacy-Enhanced Word Replacement System**.
 
